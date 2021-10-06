@@ -1,5 +1,17 @@
 # Unstable-Sweeping
-不稳定的扫雷
+It's a crazy game different from the original minesweeping:
+
+- Each mine has a countdown! When a grid around the mine is opened, the countdown will begin.
+- The numbers no longer show the number of mines, but the minimum time left to count down in the surrounding circle of mines.
+- The mine will explode at the end of the countdown, then destroy the land within 3x3.
+- The mine explosion will detonate other mines around at the same time!
+- Left click to open a plot (point to the mine will explode directly!), right click to delete the mine in a plot (wrong deletion will accelerate the countdown of the surrounding mines!)
+
+Remove as many mines as possible, protect more land plots and get higher scores.
+
+It may be difficult. Relax. It's better to enjoy the explosion quietly...
+
+Well, have a good time!
 
 
 
@@ -10,11 +22,20 @@
 - 地雷倒计时结束就会爆炸，不过它不会直接导致你Gameover，而是摧毁3x3范围内的地块——
 - 地雷爆炸同时会引爆周围的其他地雷——
 - 左键点开一个地块（点到地雷会直接爆炸！），右键删去一个地块的地雷（删错会导致周围的地雷倒计时加速！）
-- 尽可能地切除更多地雷，保护更多地块，获得更高的评分——
+
+尽可能地切除更多地雷，保护更多地块，获得更高的评分——
+
+可能会很难，放轻松，不如静静地欣赏爆炸——
+
+
 
 那么，游戏愉快！
 
+![1](https://raw.githubusercontent.com/lxtyin/Unstable-Sweeping/main/screenshot/QQ%E6%88%AA%E5%9B%BE20211003232438.png)
 
+![2](https://raw.githubusercontent.com/lxtyin/Unstable-Sweeping/main/screenshot/QQ%E6%88%AA%E5%9B%BE20211003232528.png)
 
-[=》直接下载游戏](https://lx-tyin.itch.io/unstable-sweeping)
+![3](https://raw.githubusercontent.com/lxtyin/Unstable-Sweeping/main/screenshot/QQ%E6%88%AA%E5%9B%BE20211003233057.png)
+
+这已经是我最好的成绩了（在Easy难度下
 
