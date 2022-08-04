@@ -31,11 +31,11 @@ Well, have a good time!
 
 那么，游戏愉快！
 
-![1](https://raw.githubusercontent.com/lxtyin/Unstable-Sweeping/main/screenshot/QQ%E6%88%AA%E5%9B%BE20211003232438.png)
+![1](http://lxtyin.ac.cn/img/Unstable-Sweeping/0.png)
 
-![2](https://raw.githubusercontent.com/lxtyin/Unstable-Sweeping/main/screenshot/QQ%E6%88%AA%E5%9B%BE20211003232528.png)
+![2](http://lxtyin.ac.cn/img/Unstable-Sweeping/3.png)
 
-![3](https://raw.githubusercontent.com/lxtyin/Unstable-Sweeping/main/screenshot/QQ%E6%88%AA%E5%9B%BE20211003233057.png)
+![3](http://lxtyin.ac.cn/img/Unstable-Sweeping/1.png)
 
 这已经是我最好的成绩了（在Easy难度下
 
